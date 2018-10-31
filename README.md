@@ -1,2 +1,5 @@
 # LearnGit
-Projeto de teste as funcionalidades do git
+
+Este é um projeto de teste para o aprendizado das funcionalidades do git.
+
+
