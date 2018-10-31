@@ -1,4 +1,4 @@
-Arquivo e teste para o a relização de comandos git como:
+Arquivo e teste para a realização de comandos git como:
 git add<file>
 git status
 git commit
