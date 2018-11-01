@@ -1,4 +1,6 @@
-Arquivo e teste para a realização de comandos git como:
-git add<file>
+Arquivo de teste para a realização de comandos git como:
+git add <file>
 git status
 git commit
+git pull
+git push
